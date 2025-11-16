@@ -3,7 +3,8 @@
 A minimal, Jotai-inspired state management library for Flutter.  
 Simple atoms, computed atoms, and fine-grained UI updates — with zero boilerplate.
 
-> [!WARNING] Atmos is experimental and under active development. APIs may change, break, or explode spectacularly. Use at your own risk and have fun. 😄
+> [!WARNING]
+> Atmos is experimental and under active development. APIs may change, break, or explode spectacularly. Use at your own risk and have fun. 😄
 
 ---
 
@@ -52,7 +53,8 @@ AtomBuilder(
 );
 ```
 
-> [!IMPORTANT] Computed atoms cannot be written to — `setValue` is a no-op.
+> [!IMPORTANT]
+> Computed atoms cannot be written to — `setValue` is a no-op.
 
 ## The AtmosStore API
 

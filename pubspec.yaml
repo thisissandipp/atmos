@@ -1,7 +1,11 @@
 name: atmos
 description: Minimal Jotai-inspired state management for Flutter with atoms.
+repository: https://github.com/thisissandipp/atmos
+issue_tracker: https://github.com/thisissandipp/atmos/issues
+homepage: https://github.com/thisissandipp/atmos
+documentation: https://github.com/thisissandipp/atmos
+
 version: 0.1.0-dev.0
-homepage:
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
